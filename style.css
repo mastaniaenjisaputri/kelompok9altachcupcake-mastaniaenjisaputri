@@ -1,0 +1,65 @@
+body{
+    background-color: rgba(241, 209, 209, 1);
+}
+body.booking{
+    background-color: white;
+    font-family: 'Poppins', serif;
+}
+body.deskripsi{
+    background-color: rgba(250, 232, 232, 1);
+}
+input.form-control.search::-webkit-input-placeholder{
+    color: black;
+    font-weight: 600;
+}
+input.form-control.search{
+    background-color: rgba(220, 158, 158, 1);
+    border-color: rgba(220, 158, 158, 1);
+    color: red;
+}
+
+button.btn{
+    background-color: rgba(220, 158, 158, 1);
+    border-color: rgba(220, 158, 158, 1);
+}
+button.btn.svg{
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    }
+a:hover{
+    color: white;
+}
+div.card{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+li.list-group-item{
+    background-color: transparent;
+    font-family: 'Jacques Francois', cursive;
+}
+
+div.container-fluid.utama{
+    background-color: rgba(220, 158, 158, 0.32);
+}
+div.row{
+    font-family: 'Jacques Francois', serif;
+}
+
+input#exampleInput{
+    background-color: rgba(253, 206, 185, 1);
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+div.row.booking{
+    background-color: rgba(220, 183, 183, 1);
+}
+div.hai{
+    
+}
